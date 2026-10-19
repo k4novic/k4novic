@@ -7,12 +7,21 @@
 
 <br><br>
 
-<!-- Kırılmayan Kaliteli Kodlama GIF'i -->
+<!-- Kodlama GIF'i -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR0MHg2bjlqdTA4amxwY2NoZHNhMzJ4ZXJ5c3V0MTdsNDFkeDVycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYuxp3Rjlrka8mY/giphy.gif" width="400" alt="Coding GIF" />
 
-<br><br>
+</div>
 
-<hr>
+<br>
+
+<!-- GIF Ayırıcı 1 -->
+<div align="center">
+  <img src="https://tenor.com/tr/view/black-gif-7837867867949563238" width="100%" alt="Divider" />
+</div>
+
+<br>
+
+<div align="center">
 
 ### **・ Contact**
 
@@ -32,7 +41,14 @@
 
 </div>
 
-<hr>
+<br>
+
+<!-- GIF Ayırıcı 2 -->
+<div align="center">
+  <img src="https://tenor.com/tr/view/black-gif-7837867867949563238" width="100%" alt="Divider" />
+</div>
+
+<br>
 
 <div align="center">
 
@@ -48,7 +64,14 @@
 
 </div>
 
-<hr>
+<br>
+
+<!-- GIF Ayırıcı 3 -->
+<div align="center">
+  <img src="https://tenor.com/tr/view/black-gif-7837867867949563238" width="100%" alt="Divider" />
+</div>
+
+<br>
 
 <div align="center">
 
@@ -56,4 +79,9 @@
 
 </div>
 
-<hr>
+<br>
+
+<!-- GIF Ayırıcı 4 -->
+<div align="center">
+  <img src="https://tenor.com/tr/view/black-gif-7837867867949563238" width="100%" alt="Divider" />
+</div>
