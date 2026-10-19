@@ -12,6 +12,8 @@
 
 </div>
 
+---
+
 <div align="center">
 
 ### **・ Contact**
@@ -32,6 +34,8 @@
 
 </div>
 
+---
+
 <div align="center">
 
 ### **・ Languages and Tools**
@@ -45,6 +49,8 @@
 </p>
 
 </div>
+
+---
 
 <div align="center">
 
