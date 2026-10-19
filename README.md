@@ -12,11 +12,23 @@
 
 </div>
 
-<!-- Mavi Neon Çizgi 1 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="0" />
-  <img src="https://capsule-render.vercel.app/api?type=line&color=00bfff&height=2&section=header" width="100%" />
-</p>
+<br>
+
+<!-- Mavi Neon Çizgi 1 (Kesinlikle Kırılmaz SVG Degrade) -->
+<div align="center">
+  <svg width="500" height="4" viewBox="0 0 500 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="2" x2="500" y2="2" stroke="url(#paint0_linear)" stroke-width="3" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="paint0_linear" x1="0" y1="2" x2="500" y2="2" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00D2FF"/>
+        <stop offset="0.5" stop-color="#3A7BD5"/>
+        <stop offset="1" stop-color="#00D2FF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </svg>
+</div>
+
+<br>
 
 <div align="center">
 
@@ -38,10 +50,23 @@
 
 </div>
 
+<br>
+
 <!-- Mavi Neon Çizgi 2 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=00bfff&height=2&section=header" width="100%" />
-</p>
+<div align="center">
+  <svg width="500" height="4" viewBox="0 0 500 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="2" x2="500" y2="2" stroke="url(#paint1_linear)" stroke-width="3" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="paint1_linear" x1="0" y1="2" x2="500" y2="2" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00D2FF"/>
+        <stop offset="0.5" stop-color="#3A7BD5"/>
+        <stop offset="1" stop-color="#00D2FF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </svg>
+</div>
+
+<br>
 
 <div align="center">
 
@@ -57,10 +82,23 @@
 
 </div>
 
+<br>
+
 <!-- Mavi Neon Çizgi 3 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=00bfff&height=2&section=header" width="100%" />
-</p>
+<div align="center">
+  <svg width="500" height="4" viewBox="0 0 500 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="2" x2="500" y2="2" stroke="url(#paint2_linear)" stroke-width="3" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="paint2_linear" x1="0" y1="2" x2="500" y2="2" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00D2FF"/>
+        <stop offset="0.5" stop-color="#3A7BD5"/>
+        <stop offset="1" stop-color="#00D2FF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </svg>
+</div>
+
+<br>
 
 <div align="center">
 
@@ -68,7 +106,18 @@
 
 </div>
 
+<br>
+
 <!-- Mavi Neon Çizgi 4 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=00bfff&height=2&section=header" width="100%" />
-</p>
+<div align="center">
+  <svg width="500" height="4" viewBox="0 0 500 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="2" x2="500" y2="2" stroke="url(#paint3_linear)" stroke-width="3" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="paint3_linear" x1="0" y1="2" x2="500" y2="2" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00D2FF"/>
+        <stop offset="0.5" stop-color="#3A7BD5"/>
+        <stop offset="1" stop-color="#00D2FF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </svg>
+</div>
