@@ -7,14 +7,14 @@
 
 <br><br>
 
-<div align="center">
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=k4novic&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<!-- Spotify Kartı -->
+<a href="https://open.spotify.com/user/k4novic" target="_blank">
+  <img src="https://novicell-spotify-readme.vercel.app/api/spotify?user=k4novic" alt="Spotify Recently Played / Playing" />
+</a>
 
 <br><br>
 
-<div align="center">
+<hr>
 
 ### **・ Contact**
 
