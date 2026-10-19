@@ -35,6 +35,15 @@
 <br>
 
 ### 🎧 Discord & Spotify Durumum
+
+<!-- Discord Rozetleri -->
+<p>
+  <img src="https://img.shields.io/badge/Discord%20Nitro-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Nitro" />
+  <img src="https://img.shields.io/badge/HypeSquad-Bravery-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="HypeSquad" />
+  <img src="https://img.shields.io/badge/Active%20Developer-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Active Developer" />
+</p>
+
+<!-- Lanyard Kartı -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/546351681034780743?theme=dark&animated=true)](https://discord.com/users/546351681034780743)
 
 ---
