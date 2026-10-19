@@ -35,6 +35,6 @@
 <br>
 
 ### 🎧 Discord & Spotify Durumum
-[![Discord Presence](https://lanyard.cnrad.dev/api/546351681034780743?theme=dark&animated=true&showBadges=true)](https://discord.com/users/DISCORD_USER_ID)
+[![Discord Presence](https://lanyard.cnrad.dev/api/546351681034780743?theme=dark&animated=true&showBadges=true)](https://discord.com/users/546351681034780743)
 
 ---
