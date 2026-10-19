@@ -7,10 +7,7 @@
 
 <br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-FullStack%20Development-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Turkey-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ3aXNreTRwZXNyeWptajRzcThmcm1rbnByenI3aHFubm1wMXZsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIW8229M/giphy.gif" width="400" alt="Coding GIF" />
 
 <br><br>
 
