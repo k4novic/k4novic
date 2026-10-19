@@ -1,6 +1,9 @@
 # <h1 align="center">was here k4novic</h1>
 
 <div align="center">
+### **・ CONTACT**
+
+<br>
 
 <p>
   <a href="https://k4n.dev" target="_blank">
@@ -16,7 +19,7 @@
 
 <br>
 
-### **・ Languages and Tools:**
+### **・ Languages and Tools**
 
 <br>
 
