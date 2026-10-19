@@ -1,9 +1,17 @@
-# was here k4novic
+<div align="center">
+
+<!-- Yazı Efekti -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=was+here+k4novic" alt="Typing SVG" />
+</a>
+
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=k4novic&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
 
+### **・CONTACT:**
 <p>
   <a href="https://k4n.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
@@ -33,14 +41,8 @@
 
 <br>
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Discord%20Nitro-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Nitro" />
-    <img src="https://img.shields.io/badge/HypeSquad-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="HypeSquad" />
-    <img src="https://img.shields.io/badge/Active%20Developer-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Active Developer" />
-  </p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/546351681034780743?theme=dark&animated=true)](https://discord.com/users/546351681034780743)
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/546351681034780743?theme=dark&animated=true)](https://discord.com/users/546351681034780743)
 </div>
 
 ---
