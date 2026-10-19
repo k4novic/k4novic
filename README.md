@@ -1,22 +1,8 @@
-<div align="center">
+# <h1 align="center">was here k4novic</h1>
 
-<!-- Yazı Efekti -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=was+here+k4novic" alt="Typing SVG" />
-</a>
-
-<br><br>
+<hr>
 
 <div align="center">
-  
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=k4novic&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br><br>
-
-<div align="center">
-  
-  <br>
 
 ### **・ CONTACT**
 
@@ -34,9 +20,11 @@
   </a>
 </p>
 
+</div>
+
+<hr>
+
 <div align="center">
-  
-<br>
 
 ### **・ Languages and Tools**
 
@@ -48,11 +36,14 @@
   </a>
 </p>
 
-<br><br>
+</div>
+
+<hr>
+
 <div align="center">
-  
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/546351681034780743?theme=dark&animated=true)](https://discord.com/users/546351681034780743)
 
 </div>
 
----
+<hr>
