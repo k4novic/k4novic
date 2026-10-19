@@ -7,11 +7,15 @@
 
 <br><br>
 
+<div align="center">
+  
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=k4novic&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br><br>
 
+<div align="center">
+  
   <br>
 
 ### **・ CONTACT**
@@ -30,6 +34,8 @@
   </a>
 </p>
 
+<div align="center">
+  
 <br>
 
 ### **・ Languages and Tools**
@@ -43,7 +49,8 @@
 </p>
 
 <br><br>
-
+<div align="center">
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/546351681034780743?theme=dark&animated=true)](https://discord.com/users/546351681034780743)
 
 </div>
