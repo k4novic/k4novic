@@ -7,7 +7,7 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=k4novic&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk4novic&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
 
 <br>
 
