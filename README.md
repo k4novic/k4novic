@@ -12,7 +12,7 @@
 <div align="center">
 
 <!-- GIF -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVqMXlpM3VsY2Z4NXFpNmNtb2N3OHpxeG45ZGUyYnBsaTdzcjZ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JzVtsATvUf600/giphy.gif" width="400" alt="Coding GIF" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFkZnVwbHd4NjdlM3owMGNvOTlyMjQ0M3NyNnc4b3R5Y2xsbG0xaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" width="400" alt="Coding GIF" />
 
 </div>
 
