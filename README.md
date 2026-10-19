@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animasyonlu Yazı Efekti Başlık -->
+<!-- Yazı Efekti -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=was+here+k4novic" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- Çalışan Alternatif Profile Views Sayaç -->
+<!-- Views Sayaç -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk4novic&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
 
 <br><br>
