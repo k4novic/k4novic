@@ -16,7 +16,7 @@
 
 <!-- Mavi Neon Çizgi Ayırıcı 1 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=line&color=00f0ff&height=4&section=header" width="100%" alt="Divider" />
 </div>
 
 <br>
@@ -45,7 +45,7 @@
 
 <!-- Mavi Neon Çizgi Ayırıcı 2 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=line&color=00f0ff&height=4&section=header" width="100%" alt="Divider" />
 </div>
 
 <br>
@@ -68,7 +68,7 @@
 
 <!-- Mavi Neon Çizgi Ayırıcı 3 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=line&color=00f0ff&height=4&section=header" width="100%" alt="Divider" />
 </div>
 
 <br>
@@ -83,5 +83,5 @@
 
 <!-- Mavi Neon Çizgi Ayırıcı 4 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=line&color=00f0ff&height=4&section=header" width="100%" alt="Divider" />
 </div>
