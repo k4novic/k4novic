@@ -7,10 +7,10 @@
 
 <br><br>
 
-<!-- Spotify Kartı -->
-<a href="https://open.spotify.com/user/k4novic" target="_blank">
-  <img src="https://novicell-spotify-readme.vercel.app/api/spotify?user=k4novic" alt="Spotify Recently Played / Playing" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Focus-FullStack%20Development-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Turkey-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 <br><br>
 
