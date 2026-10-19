@@ -7,7 +7,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ3aXNreTRwZXNyeWptajRzcThmcm1rbnByenI3aHFubm1wMXZsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIW8229M/giphy.gif" width="400" alt="Coding GIF" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br><br>
 
