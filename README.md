@@ -7,8 +7,8 @@
 
 <br><br>
 
-<!-- Sorunsuz Çalışan Profile Views Sayaç -->
-<img src="https://profile-counter.glitch.me/k4novic/count.svg" alt="Profile Views" />
+<!-- %100 Çalışan Sayaç -->
+<img src="https://mojo-counter.netlify.app/api/hit?id=k4novic-github-views&label=PROFILE%20VIEWS&color=007ec6&labelColor=555555&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
