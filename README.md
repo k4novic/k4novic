@@ -7,7 +7,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svvIW8229M/giphy.gif" width="400" alt="Coding GIF" />
+<img src="(https://media.giphy.com/media/ulljQf0D4oWTF5TPlC/giphy.gif)" width="400" alt="Coding GIF" />
 
 <br><br>
 
