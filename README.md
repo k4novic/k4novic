@@ -1,16 +1,6 @@
+# <h1 align="center">was here k4novic</h1>
+
 <div align="center">
-
-<!-- Animasyonlu Yazı Efekti Başlık -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=was+here+k4novic" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<!-- Profile Views Sayaç -->
-<img src="https://komarev.com/ghpvc/?username=k4novic&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br><br>
 
 <p>
   <a href="https://k4n.dev" target="_blank">
@@ -27,13 +17,19 @@
 <br>
 
 ### **・ Languages and Tools:**
+
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?ids=js,cpp,html,css,github,vscode" alt="Skills" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
-<br>
+<br><br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/546351681034780743?theme=dark&animated=true)](https://discord.com/users/546351681034780743)
 
