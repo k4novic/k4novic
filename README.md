@@ -1,23 +1,24 @@
 <div align="center">
 
-<!-- Yazı Efekti 1 -->
+<!-- Yazı Efekti -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=was+here+k4novic" alt="Typing SVG" />
 </a>
 
-<br><br>
+</div>
 
-<!-- Yazı Efekti 2 (Alt Kısım) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Developer+%26+Student" alt="Typing SVG" />
-</a>
+---
 
-<br><br>
+<div align="center">
 
 <!-- Kodlama GIF'i -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR0MHg2bjlqdTA4amxwY2NoZHNhMzJ4ZXJ5c3V0MTdsNDFkeDVycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYuxp3Rjlrka8mY/giphy.gif" width="400" alt="Coding GIF" />
 
-<br><br><br>
+</div>
+
+---
+
+<div align="center">
 
 ### **・ Contact**
 
@@ -35,7 +36,11 @@
   </a>
 </p>
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
 
 ### **・ Languages and Tools**
 
@@ -47,8 +52,14 @@
   </a>
 </p>
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/546351681034780743?theme=dark&animated=true)](https://discord.com/users/546351681034780743)
 
 </div>
+
+---
