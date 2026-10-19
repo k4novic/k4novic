@@ -2,7 +2,7 @@
 
 <!-- Yazı Efekti -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=was+here+k4novic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=was+here+k4n" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -14,9 +14,19 @@
 
 <br>
 
-<!-- Mavi Neon Çizgi Ayırıcı 1 -->
+<!-- Mavi Neon Çizgi 1 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=00f0ff&height=4&section=header" width="100%" alt="Divider" />
+  <svg width="100%" height="8" viewBox="0 0 600 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 4H600" stroke="url(#blue_gradient_1)" stroke-width="3" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="blue_gradient_1" x1="0" y1="4" x2="600" y2="4" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00F0FF" stop-opacity="0"/>
+        <stop offset="0.2" stop-color="#00F0FF"/>
+        <stop offset="0.8" stop-color="#0077FF"/>
+        <stop offset="1" stop-color="#0077FF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </svg>
 </div>
 
 <br>
@@ -43,9 +53,19 @@
 
 <br>
 
-<!-- Mavi Neon Çizgi Ayırıcı 2 -->
+<!-- Mavi Neon Çizgi 2 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=00f0ff&height=4&section=header" width="100%" alt="Divider" />
+  <svg width="100%" height="8" viewBox="0 0 600 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 4H600" stroke="url(#blue_gradient_2)" stroke-width="3" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="blue_gradient_2" x1="0" y1="4" x2="600" y2="4" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00F0FF" stop-opacity="0"/>
+        <stop offset="0.2" stop-color="#00F0FF"/>
+        <stop offset="0.8" stop-color="#0077FF"/>
+        <stop offset="1" stop-color="#0077FF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </svg>
 </div>
 
 <br>
@@ -66,9 +86,19 @@
 
 <br>
 
-<!-- Mavi Neon Çizgi Ayırıcı 3 -->
+<!-- Mavi Neon Çizgi 3 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=00f0ff&height=4&section=header" width="100%" alt="Divider" />
+  <svg width="100%" height="8" viewBox="0 0 600 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 4H600" stroke="url(#blue_gradient_3)" stroke-width="3" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="blue_gradient_3" x1="0" y1="4" x2="600" y2="4" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00F0FF" stop-opacity="0"/>
+        <stop offset="0.2" stop-color="#00F0FF"/>
+        <stop offset="0.8" stop-color="#0077FF"/>
+        <stop offset="1" stop-color="#0077FF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </svg>
 </div>
 
 <br>
@@ -81,7 +111,17 @@
 
 <br>
 
-<!-- Mavi Neon Çizgi Ayırıcı 4 -->
+<!-- Mavi Neon Çizgi 4 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=00f0ff&height=4&section=header" width="100%" alt="Divider" />
+  <svg width="100%" height="8" viewBox="0 0 600 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 4H600" stroke="url(#blue_gradient_4)" stroke-width="3" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="blue_gradient_4" x1="0" y1="4" x2="600" y2="4" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00F0FF" stop-opacity="0"/>
+        <stop offset="0.2" stop-color="#00F0FF"/>
+        <stop offset="0.8" stop-color="#0077FF"/>
+        <stop offset="1" stop-color="#0077FF" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </svg>
 </div>
