@@ -7,12 +7,10 @@
 
 <br><br>
 
-<!-- Kodlama GIF'i -->
+<!-- GIF -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR0MHg2bjlqdTA4amxwY2NoZHNhMzJ4ZXJ5c3V0MTdsNDFkeDVycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYuxp3Rjlrka8mY/giphy.gif" width="400" alt="Coding GIF" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -34,8 +32,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### **・ Languages and Tools**
@@ -49,8 +45,6 @@
 </p>
 
 </div>
-
----
 
 <div align="center">
 
