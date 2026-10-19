@@ -16,7 +16,7 @@
 
 <!-- GIF Ayırıcı 1 -->
 <div align="center">
-  <img src="https://media.tenor.com/P_Hux3ug4nAAAAAi/coronacypher-cypher.gif" width="100%" alt="Divider" />
+  <img src="https://media.tenor.com/JNA3nEDc3goAAAAi/blue-bar.gif" width="100%" alt="Divider" />
 </div>
 
 <br>
