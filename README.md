@@ -8,7 +8,7 @@
 <br><br>
 
 <!-- Sorunsuz Çalışan Profile Views Sayaç -->
-<img src="https://img.shields.io/badge/dynamic/json?color=007ec6&label=PROFILE%20VIEWS&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fk4novic-github%2Fvisits&style=for-the-badge" alt="Profile Views" />
+<img src="https://profile-counter.glitch.me/k4novic/count.svg" alt="Profile Views" />
 
 <br><br>
 
