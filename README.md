@@ -7,7 +7,7 @@
 <br>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=aslancim&label=Profile%20views&color=0e75b6&style=flat&base=355" alt="Profile viewer"/>
+<img src="https://komarev.com/ghpvc/?username=k4novic&label=Profile%20views&color=0e75b6&style=flat&base=355" alt="Profile viewer"/>
 
 <br><br>
 
