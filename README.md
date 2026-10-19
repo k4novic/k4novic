@@ -11,7 +11,7 @@
 
 <br>
 
-### **・CONTACT:**
+### **・ CONTACT**
 <p>
   <a href="https://k4n.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
@@ -26,7 +26,7 @@
 
 <br>
 
-### **・ Languages and Tools:**
+### **・ Languages and Tools**
 <p>
   <img src="https://img.shields.io/badge/-javascript-323330?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-c-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
