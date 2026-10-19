@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Yazı Efekti -->
+<!-- Animasyonlu Yazı Efekti Başlık -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=was+here+k4novic" alt="Typing SVG" />
 </a>
 
 <br><br>
 
+<!-- Çalışan Alternatif Profile Views Sayaç -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk4novic&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
 
-<br>
+<br><br>
 
-### **・ CONTACT**
 <p>
   <a href="https://k4n.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
@@ -26,7 +26,7 @@
 
 <br>
 
-### **・ Languages and Tools**
+### **・ Languages and Tools:**
 <p>
   <img src="https://img.shields.io/badge/--323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/--00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
