@@ -12,14 +12,7 @@
 
 </div>
 
-<br>
-
-<!-- GIF Ayırıcı 1 -->
-<div align="center">
-  <img src="https://media.tenor.com/JNA3nEDc3goAAAAi/blue-bar.gif" width="100%" alt="Divider" />
-</div>
-
-<br>
+---
 
 <div align="center">
 
@@ -41,14 +34,7 @@
 
 </div>
 
-<br>
-
-<!-- GIF Ayırıcı 2 -->
-<div align="center">
-  <img src="https://media.tenor.com/bMWzTJGU_WYAAAAi/black.gif" width="100%" alt="Divider" />
-</div>
-
-<br>
+---
 
 <div align="center">
 
@@ -64,14 +50,7 @@
 
 </div>
 
-<br>
-
-<!-- GIF Ayırıcı 3 -->
-<div align="center">
-  <img src="https://media.tenor.com/bMWzTJGU_WYAAAAi/black.gif" width="100%" alt="Divider" />
-</div>
-
-<br>
+---
 
 <div align="center">
 
@@ -79,9 +58,4 @@
 
 </div>
 
-<br>
-
-<!-- GIF Ayırıcı 4 -->
-<div align="center">
-  <img src="https://media.tenor.com/bMWzTJGU_WYAAAAi/black.gif" width="100%" alt="Divider" />
-</div>
+---
