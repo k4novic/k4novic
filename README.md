@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Animasyonlu Yazı Efekti Başlık -->
+<!-- Yazı Efekti -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=was+here+k4novic" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- %100 Çalışan Sayaç -->
-<img src="https://mojo-counter.netlify.app/api/hit?id=k4novic-github-views&label=PROFILE%20VIEWS&color=007ec6&labelColor=555555&style=for-the-badge" alt="Profile Views" />
+<!-- Views Sayaç -->
+<img src="https://komarev.com/ghpvc/?username=k4novic&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br><br>
 
