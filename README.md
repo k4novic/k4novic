@@ -7,25 +7,16 @@
 
 <br><br>
 
-<!-- Kodlama GIF'i -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding GIF" />
+<!-- Üst Kısım Kodlama GIF'i -->
+<img src="https://user-images.githubusercontent.com/74038190/221352945-000ae3bd-700f-4886-8bbf-554471f4b850.gif" width="400" alt="Coding GIF" />
 
 </div>
 
 <br>
 
-<!-- Mavi Neon Çizgi 1 (Kesinlikle Kırılmaz SVG Degrade) -->
+<!-- Mavi Neon Çizgi Ayırıcı 1 -->
 <div align="center">
-  <svg width="500" height="4" viewBox="0 0 500 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="2" x2="500" y2="2" stroke="url(#paint0_linear)" stroke-width="3" stroke-linecap="round"/>
-    <defs>
-      <linearGradient id="paint0_linear" x1="0" y1="2" x2="500" y2="2" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#00D2FF"/>
-        <stop offset="0.5" stop-color="#3A7BD5"/>
-        <stop offset="1" stop-color="#00D2FF" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 </div>
 
 <br>
@@ -52,18 +43,9 @@
 
 <br>
 
-<!-- Mavi Neon Çizgi 2 -->
+<!-- Mavi Neon Çizgi Ayırıcı 2 -->
 <div align="center">
-  <svg width="500" height="4" viewBox="0 0 500 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="2" x2="500" y2="2" stroke="url(#paint1_linear)" stroke-width="3" stroke-linecap="round"/>
-    <defs>
-      <linearGradient id="paint1_linear" x1="0" y1="2" x2="500" y2="2" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#00D2FF"/>
-        <stop offset="0.5" stop-color="#3A7BD5"/>
-        <stop offset="1" stop-color="#00D2FF" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 </div>
 
 <br>
@@ -84,18 +66,9 @@
 
 <br>
 
-<!-- Mavi Neon Çizgi 3 -->
+<!-- Mavi Neon Çizgi Ayırıcı 3 -->
 <div align="center">
-  <svg width="500" height="4" viewBox="0 0 500 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="2" x2="500" y2="2" stroke="url(#paint2_linear)" stroke-width="3" stroke-linecap="round"/>
-    <defs>
-      <linearGradient id="paint2_linear" x1="0" y1="2" x2="500" y2="2" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#00D2FF"/>
-        <stop offset="0.5" stop-color="#3A7BD5"/>
-        <stop offset="1" stop-color="#00D2FF" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 </div>
 
 <br>
@@ -108,16 +81,7 @@
 
 <br>
 
-<!-- Mavi Neon Çizgi 4 -->
+<!-- Mavi Neon Çizgi Ayırıcı 4 -->
 <div align="center">
-  <svg width="500" height="4" viewBox="0 0 500 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="2" x2="500" y2="2" stroke="url(#paint3_linear)" stroke-width="3" stroke-linecap="round"/>
-    <defs>
-      <linearGradient id="paint3_linear" x1="0" y1="2" x2="500" y2="2" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#00D2FF"/>
-        <stop offset="0.5" stop-color="#3A7BD5"/>
-        <stop offset="1" stop-color="#00D2FF" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 </div>
