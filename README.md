@@ -7,7 +7,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/qgQUGG4dbv5BLHEviQ/giphy.gif" width="400" alt="Cyberpunk Studio GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding GIF" />
 
 <br><br>
 
