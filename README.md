@@ -7,11 +7,18 @@
 
 <br><br>
 
+<!-- Kodlama GIF'i -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Coding GIF" />
 
-<br><br>
+</div>
 
-<hr>
+<!-- Mavi Neon Çizgi 1 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="0" />
+  <img src="https://capsule-render.vercel.app/api?type=line&color=00bfff&height=2&section=header" width="100%" />
+</p>
+
+<div align="center">
 
 ### **・ Contact**
 
@@ -31,7 +38,10 @@
 
 </div>
 
-<hr>
+<!-- Mavi Neon Çizgi 2 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=line&color=00bfff&height=2&section=header" width="100%" />
+</p>
 
 <div align="center">
 
@@ -47,7 +57,10 @@
 
 </div>
 
-<hr>
+<!-- Mavi Neon Çizgi 3 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=line&color=00bfff&height=2&section=header" width="100%" />
+</p>
 
 <div align="center">
 
@@ -55,4 +68,7 @@
 
 </div>
 
-<hr>
+<!-- Mavi Neon Çizgi 4 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=line&color=00bfff&height=2&section=header" width="100%" />
+</p>
