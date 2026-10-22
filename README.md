@@ -48,7 +48,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,html,css,github,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,cpp,html,css,github,vscode,nextjs" alt="My Skills" />
   </a>
 </p>
 
